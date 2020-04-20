@@ -6,7 +6,7 @@ This first script has no dependencies
 
 `python3 getResults.py`
 it downloads all of the results for formula sae (non electric vehicle) from sae.org into the current directory
-
+you can also run the exe file if you don't have python installed, the folder 'scraped results' contains the output from this script
 
 
 The next script has extra dependencies it requires the installation of 2 libraries, and potentially another non python library depending on what system you're running
