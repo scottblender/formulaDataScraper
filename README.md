@@ -15,10 +15,11 @@ The next script has extra dependencies it requires the installation of 2 librari
 `pip3 install -r requirements.txt`
 
 It's input arguments can either be an individual pdf file or a folder that contains multiple pdfs
+
+`python3 fsae.py "PATH_TO_PDF.pdf"`
+or  
+`python3 fsae.py "DIRECTORY"`
+
 All the paths can be relative or absolute
 
 
-`python3 fsae.py "PATH_TO_PDF.pdf"`
-
-or  
-`python3 fsae.py "DIRECTORY"`
