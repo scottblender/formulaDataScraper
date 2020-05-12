@@ -20,4 +20,5 @@ All the paths can be relative or absolute
 
 `python3 fsae.py "PATH_TO_PDF.pdf"`
 
-or  `python3 fsae.py "DIRECTORY"`
+or  
+`python3 fsae.py "DIRECTORY"`
