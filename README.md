@@ -17,6 +17,7 @@ The next script has extra dependencies it requires the installation of 2 librari
 It's input arguments can either be an individual pdf file or a folder that contains multiple pdfs
 
 `python3 fsae.py "PATH_TO_PDF.pdf"`
+
 or  
 `python3 fsae.py "DIRECTORY"`
 
