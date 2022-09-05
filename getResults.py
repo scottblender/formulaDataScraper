@@ -3,7 +3,7 @@ import urllib.request #, urllib.error, urllib.parse
 import re
 
 #connect to a URL
-dataURL = 'https://www.sae.org/attend/student-events/formula-sae-lincoln/awards-results'
+dataURL = 'https://www.sae.org/attend/student-events/formula-sae-michigan-may/awards-results'
 baseURL = 'https://www.sae.org'
 website = urllib.request.urlopen(dataURL)
 
